@@ -1,0 +1,16 @@
+{
+  "_id": "ea32bc94-75af-4353-84eb-a7295630f613",
+  "context": "AUTHENTICATION_TREE_DECISION_NODE",
+  "createdBy": "null",
+  "creationDate": 0,
+  "default": false,
+  "description": null,
+  "evaluatorVersion": "1.0",
+  "language": "JAVASCRIPT",
+  "lastModifiedBy": "null",
+  "lastModifiedDate": 0,
+  "name": "SGWSTest",
+  "script": {
+    "file": "scripts-content/AUTHENTICATION_TREE_DECISION_NODE/SGWSTest.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "a510198b-fa14-4ba6-b4ae-07c3717ee4b7",
+  "context": "AUTHENTICATION_TREE_DECISION_NODE",
+  "createdBy": "null",
+  "creationDate": 0,
+  "default": false,
+  "description": "This script pulls the User Type attribute and determines the theme based on the User Type.",
+  "evaluatorVersion": "2.0",
+  "language": "JAVASCRIPT",
+  "lastModifiedBy": "null",
+  "lastModifiedDate": 0,
+  "name": "SGWS test theme",
+  "script": {
+    "file": "scripts-content/AUTHENTICATION_TREE_DECISION_NODE/SGWS test theme.js"
+  }
+}
